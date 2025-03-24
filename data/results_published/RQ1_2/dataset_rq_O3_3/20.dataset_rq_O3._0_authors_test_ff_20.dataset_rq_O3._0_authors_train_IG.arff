@@ -1,0 +1,225 @@
+@relation '/ComprehensiveAttribution/Attribution/datasets/20.dataset_rq_O3._0_authors_train/BinaryDeanonymizationAllFeatures-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.InfoGainAttributeEval-Sweka.attributeSelection.Ranker -T 0.0 -N 200'
+
+@attribute 'ASTNodeBigramsTF 509=[\" Argument]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 236=[out]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 29=[obj]' numeric
+@attribute 'disassemblyBjoernLineUnigrams 24=[obj]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 722=[const char]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 1124=[; const char]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 1338=[ss pop]' numeric
+@attribute 'NDISASMDisassemblyInstructionTrigrams 1247=[ss pop edi]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 8795=[char *]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4071=[push ebx outsd]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 1122=[; [hexadecimal:number]=hexadecimal ;]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 720=[[hexadecimal:number]=hexadecimal ;]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 137=[; obj]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 145=[arpl [eax+hexadecimal]]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4080=[arpl [eax+hexadecimal],bp jc hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4079=[xor [ecx],esi arpl [eax+hexadecimal],bp]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 972=[jc hexadecimal popa]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4089=[outsd jnc hexadecimal]' numeric
+@attribute 'disassemblyBjoernLineBigrams 51=[reloc obj]' numeric
+@attribute 'disassemblyBjoernLineBigrams 50=[loc obj]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 2506=[char const*]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 726=[const*]' numeric
+@attribute 'disassemblyBjoernLineBigrams 2150=[reloc method]' numeric
+@attribute 'disassemblyBjoernLineBigrams 36=[obj obj]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4093=[ss pop edi pop edi]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4092=[jz hexadecimal ss pop edi]' numeric
+@attribute 'disassemblyBjoernLineUnigrams 1559=[mov eax, dword [hexadecimal]]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 532=[popa jnc hexadecimal]' numeric
+@attribute 'disassemblyBjoernLineBigrams 2151=[method reloc]' numeric
+@attribute 'ASTNodeTypeAvgDep 15=[\"]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 3473=[[hexadecimal] anumber]' numeric
+@attribute 'ASTNodeBigramsTF 1475=[Argument std]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4099=[jnc hexadecimal arpl [edi+hexadecimal],bx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4101=[insd dec ecx]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 719=[arpl [ecx+hexadecimal]]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 564=[arpl [edi+hexadecimal]]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 721=[; const]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4083=[popa imul esi,[ebx+esi*number+hexadecimal],dword hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4082=[jz hexadecimal popa]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4081=[jc hexadecimal jz hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 210=[jo hexadecimal outsb]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4078=[arpl [ebx+hexadecimal],dx xor [ecx],esi]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 1175=[popa insd]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 3771=[add esp,byte +hexadecimal ret]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 1085=[jz hexadecimal inc eax]' numeric
+@attribute 'disassemblyBjoernLineBigrams 1989=[number add esp, hexadecimal numbercnumberc number,esp,+=,number,$o,of,:=,number,$s,sf,:=,$z,zf,:=,number,$c,cf,:=,$p,pf,:=,number,$c,af,:= number ret cnumber esp,[number],eip,=,number,esp,+=]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 150=[fs outsd]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 206=[fs outsd jnz hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4682=[jnc hexadecimal push ebx]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 65=[char]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 18094=[dec ecx push es]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 1037=[dec ecx push esp]' numeric
+@attribute 'ASTNodeBigramsTF 1383=[:: ostream]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 1120=[jnc hexadecimal jc hexadecimal]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 2204=[[eax] numberbnumber eax]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 2203=[dword [eax] numberbnumber]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 1257=[[eax] numberbnumber]' numeric
+@attribute 'NDISASMDisassemblyInstructionUnigrams 68=[arpl]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 237=[xor ch,[esi] xor [eax],al]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4090=[dec ecx outsd]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 75=[init]' numeric
+@attribute 'ASTNodeTypesTF 894=[\"w\"]' numeric
+@attribute 'ASTNodeTypesTFIDF 894=[\"w\"]' numeric
+@attribute 'NDISASMDisassemblyInstructionUnigrams 63=[popa]' numeric
+@attribute 'ASTNodeTypeAvgDep 894=[\"w\"]' numeric
+@attribute 'ASTNodeBigramsTF 150=[Argument \"w\"]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 2335=[pop eax pop edi]' numeric
+@attribute 'ASTNodeTypeAvgDep 345=[ostream]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 528=[outsd jnz hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 1422=[arpl [edi+ebx*number+hexadecimal]]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4096=[imul esi,[ebx+esi*number+hexadecimal],dword hexadecimal push ebx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4683=[jz hexadecimal xor [ebx+hexadecimal],esp]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4686=[arpl [edi+ebx*number+hexadecimal],dx push ebx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4685=[dec ecx arpl [edi+ebx*number+hexadecimal],dx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4684=[xor [ebx+hexadecimal],esp popa]' numeric
+@attribute 'ASTNodeTypesTFIDF 549=[freopen]' numeric
+@attribute 'ASTNodeTypesTF 549=[freopen]' numeric
+@attribute 'ASTNodeTypesTFIDF 796=[\"r\"]' numeric
+@attribute 'ASTNodeTypesTF 796=[\"r\"]' numeric
+@attribute 'ASTNodeTypesTF 109=[stdout]' numeric
+@attribute 'ASTNodeTypesTFIDF 109=[stdout]' numeric
+@attribute 'ASTNodeTypesTFIDF 2=[stdin]' numeric
+@attribute 'ASTNodeTypesTF 2=[stdin]' numeric
+@attribute 'ASTNodeBigramsTF 7553=[Argument s]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 934=[; [hexadecimal:number]=hexadecimal number]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 622=[[hexadecimal:number]=hexadecimal number]' numeric
+@attribute 'ASTNodeBigramsTF 152=[Argument stdout]' numeric
+@attribute 'ASTNodeBigramsTF 144=[Argument stdin]' numeric
+@attribute 'ASTNodeBigramsTF 143=[\"r\" Argument]' numeric
+@attribute 'ASTNodeBigramsTF 142=[Argument \"r\"]' numeric
+@attribute 'ASTNodeTypeAvgDep 796=[\"r\"]' numeric
+@attribute 'ASTNodeBigramsTF 87=[freopen ArgumentList]' numeric
+@attribute 'ASTNodeBigramsTF 86=[Callee freopen]' numeric
+@attribute 'ASTNodeBigramsTF 151=[\"w\" Argument]' numeric
+@attribute 'ASTNodeTypeAvgDep 549=[freopen]' numeric
+@attribute 'ASTNodeTypeAvgDep 109=[stdout]' numeric
+@attribute 'ASTNodeTypeAvgDep 2=[stdin]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 311=[mov dword [esp+hexadecimal],hexadecimal mov dword [esp],hexadecimal]' numeric
+@attribute 'ASTNodeTypeAvgDep 133=[.in\"]' numeric
+@attribute 'ASTNodeBigramsTF 6763=[.in\" Argument]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 3063=[pop edx dec esi]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4098=[xor esp,[edx+hexadecimal] jnc hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4100=[arpl [edi+hexadecimal],bx jnc hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 1339=[xor esp]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4097=[jz hexadecimal xor esp,[edx+hexadecimal]]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 205=[jnc hexadecimal fs outsd]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4166=[arpl [eax+hexadecimal],di pop edi]' numeric
+@attribute 'ASTNodeBigramsTF 1396=[:: cin]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 663=[std::char_traits<char>]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 2503=[std::char_traits<char> >(std::basic_ostream<char]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 725=[>(std::basic_ostream<char]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 722=[std::basic_ostream<char]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 2498=[; std::basic_ostream<char]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4142=[pop edi ja hexadecimal]' numeric
+@attribute 'ASTNodeBigramsTF 91=[Callee scanf]' numeric
+@attribute 'ASTNodeBigramsTF 92=[scanf ArgumentList]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4103=[push ebx ss pop edi]' numeric
+@attribute 'ASTNodeTypesTF 666=[std :: cout]' numeric
+@attribute 'ASTNodeTypesTFIDF 666=[std :: cout]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 1715=[[edx+hexadecimal] number]' numeric
+@attribute 'disassemblyBjoernLineUnigrams 20=[main]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 25=[main]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 2071=[arpl [cs:eax+hexadecimal]]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 6633=[number ; [hexadecimal:number]=number]' numeric
+@attribute 'ASTNodeTypesTF 54=[_dso_handle]' numeric
+@attribute 'ASTNodeTypesTF 543=[__cxa_atexit]' numeric
+@attribute 'ASTNodeTypesTFIDF 543=[__cxa_atexit]' numeric
+@attribute 'ASTNodeTypesTFIDF 54=[_dso_handle]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 913=[ch]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 1420=[xor [ebx+hexadecimal]]' numeric
+@attribute 'ASTNodeTypesTFIDF 1064=[<<]' numeric
+@attribute 'ASTNodeTypesTF 1064=[<<]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 2063=[dec esi push ebx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 224=[popa jc hexadecimal]' numeric
+@attribute 'ASTNodeTypesTFIDF 154=[\"Case #\"]' numeric
+@attribute 'ASTNodeTypesTF 154=[\"Case #\"]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 231=[pop edi xor ch,[esi]]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4091=[popa jz hexadecimal]' numeric
+@attribute 'ASTNodeTypesTF 1003=[scanf]' numeric
+@attribute 'ASTNodeTypesTFIDF 1003=[scanf]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 3064=[push ebx jz hexadecimal]' numeric
+@attribute 'ASTNodeBigramsTF 507=[Argument \"\%d]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 3111=[pop edx push ebx]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 4279=[hexadecimal numberecnumberc ;]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 2143=[numberecnumberc ;]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 9924=[arpl [cs:eax+hexadecimal],si add [edi+hexadecimal],bl]' numeric
+@attribute 'NDISASMDisassemblyInstructionTrigrams 2289=[far [dword hexadecimal]]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 2061=[far [dword]' numeric
+@attribute 'NDISASMDisassemblyInstructionTrigrams 2288=[call far [dword]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 314=[call hexadecimal mov eax,[hexadecimal]]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 1199=[or esp]' numeric
+@attribute 'disassemblyBjoernLineBigrams 46=[obj reloc]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 278=[; [hexadecimal:number]=number]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 132=[[hexadecimal:number]=number]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 1123=[[hexadecimal:number]=hexadecimal ; const]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 225=[pop edi pop edi]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 713=[pop edx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 1079=[pop edi imul ebp,[esi+hexadecimal],dword hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 2665=[or [ebx+hexadecimal]]' numeric
+@attribute 'ASTNodeBigramsTF 780=[std ::]' numeric
+@attribute 'disassemblyBjoernLineUnigrams 7296=[mov dword [esp + number], hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 302=[xor ebx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 212=[add [ebx+hexadecimal],dh popa]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4687=[push ebx xor eax,hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 4109=[jz hexadecimal imul ebp,[edi+hexadecimal],dword hexadecimal]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 1390=[far [edi]]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 379=[; [hexadecimal:number]=number number]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 279=[[hexadecimal:number]=number number]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 229=[inc edx inc ebx]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 3136=[push esp xor [edi+hexadecimal],bl]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 723=[>&]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 2500=[std::char_traits<char> >&]' numeric
+@attribute 'ASTNodeTypeAvgDep 1064=[<<]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 1089=[jnz hexadecimal inc eax]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 17700=[char *filename number]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 1081=[imul ebp,[fs:esi+hexadecimal],dword hexadecimal inc edx]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 8567=[char *file]' numeric
+@attribute 'disassemblyBjoernLineUnigrams 217=[number mov dword [esp + number], eax number ; FILE *stream eax,hexadecimal,esp,+,=[number]]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 232=[*filename]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 19395=[const char *file]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 231=[file*freopen(const]' numeric
+@attribute 'NDISASMDisassemblyInstructionBigrams 154=[gs outsd]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 208=[add [esi+hexadecimal],ah gs outsd]' numeric
+@attribute 'NDISASMDisassemblyLineBigrams 209=[gs outsd jo hexadecimal]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 229=[*stream]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 233=[*stream)]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 228=[FILE]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 226=[*mode]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 7791=[*filename number]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 17699=[const char *filename]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 2582=[*file]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 732=[file*freopen(const char]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 1144=[FILE *stream) number]' numeric
+@attribute 'BjoernDisassemblyInstructionUnigrams 2665=[*str]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 731=[; file*freopen(const]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 727=[FILE *stream]' numeric
+@attribute 'BjoernDisassemblyInstructionTrigrams 1139=[file*freopen(const char *filename]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 723=[char *mode]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 724=[*mode number]' numeric
+@attribute 'BjoernDisassemblyInstructionBigrams 726=[; FILE]' numeric
+@attribute authorName_original {dongockhanh1997,grisaf,tchrikch,djurkicn,perhark,alyaxey,kicius,LoRD,mRilchi,usr32,ivancastel94,Neroysq,Yhammad,liangsheng,Kozyr,Frank,Manro,Rasmus,Xellos,eha}
+
+@data
+0,6.0,26.0,26.0,18.0,9.0,0.0,0.0,0,0.0,14.0,14.0,9.0,1.0,0.0,0.0,5.0,0.0,2.0,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0,2.0,0.0,0,0,6.0,0.0,0.0,0.0,1.0,9.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,21.0,0,1.0,0.0,3.0,0.0,0.0,0.0,5.0,6.0,0.0,15.0,0,0,30.0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,31.265379,18.0,0,0,8.0,13.895724,13.895724,8.0,6.0,2.0,2.0,3.0,3.0,0,0,0,8.0,8.0,0,11.5,13.333333,13.333333,9.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,0.0,0.0,10.0,9.0,9.0,0.0,0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,5.0,0,0,8.0,6.0,31.0,53.845932,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,6.0,6.0,7.0,16.0,1.0,1.0,0,0.0,18.0,0.0,2.0,0.0,0.0,0.0,2.0,2.0,8.0,0.0,0.0,0.0,0.0,1.0,0,1.0,0,2.0,4.0,0,2.0,1.0,1.0,1.0,4.0,2.0,4.0,4.0,0,0,0,2.0,2.0,0,2.0,4.0,2.0,4.0,2.0,2.0,Frank
+0,2.0,17.0,17.0,0.0,0.0,6.0,6.0,0,6.0,3.0,3.0,2.0,9.0,4.0,4.0,9.0,6.0,2.0,3.0,1.0,1.0,8.0,4.0,4.0,4.0,0,3.0,8.0,0,0,0.0,3.0,3.0,4.0,6.0,0.0,5.0,5.0,5.0,0.0,4.0,6.0,2.0,4.0,2.0,2.0,0.0,1.0,161.0,0,5.0,8.0,8.0,3.0,3.0,3.0,42.0,2.0,2.0,23.0,0,0,50.0,0,0,17.0,11.875,0.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,4.0,0,0,11.0,3.0,3.0,3.0,3.0,0.0,2.0,4.0,4.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,36.0,41.472115,3.0,11.0,11.0,0.0,0,7.0,9.0,2.1101878,1.6412572,164.0,1.0,14.0,14.0,16.0,6.0,0,0,4.0,9.0,0.0,0.0,27.0,0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,10.0,10.0,0.0,25.0,17.0,5.0,0,15.0,18.0,4.0,0.0,1.0,4.0,1.0,9.0,9.0,20.0,2.0,3.0,2.0,14.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,Kozyr
+0,8.0,27.0,27.0,8.0,4.0,6.0,6.0,0,8.0,9.0,9.0,5.0,7.0,4.0,4.0,9.0,6.0,5.0,6.0,1.0,1.0,8.0,7.0,4.0,4.0,0,3.0,7.0,0,0,9.0,3.0,3.0,4.0,6.0,4.0,5.0,5.0,5.0,2.0,4.0,6.0,2.0,4.0,2.0,3.0,1.0,1.0,181.0,0,5.0,15.0,8.0,2.0,2.0,2.0,40.0,7.0,2.0,24.0,0,0,47.0,0,0,15.0,11.066667,3.0,1.0,3.0,1.0,1.0,1.0,1.0,31.265379,18.0,0,0,8.0,13.895724,13.895724,8.0,9.0,3.0,3.0,3.0,3.0,0,0,0,8.0,8.0,0,11.5,13.333333,13.333333,8.0,0,0,8.0,3.0,3.0,3.0,3.0,1.0,1.0,8.0,4.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,45.0,51.84014,3.0,9.0,9.0,1.0,0,7.0,9.0,2.1101878,1.6412572,187.0,1.0,0.0,0.0,13.0,6.0,0,0,11.0,9.0,0.0,0.0,24.0,0,5.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,3.0,4.0,19.0,19.0,2.0,26.0,14.0,7.0,0,25.0,34.0,22.0,0.0,1.0,4.0,1.0,16.0,16.0,25.0,2.0,2.0,2.0,0.0,1.0,0,1.0,0,2.0,4.0,0,2.0,1.0,1.0,1.0,4.0,2.0,4.0,4.0,0,0,0,2.0,2.0,0,2.0,4.0,2.0,4.0,2.0,2.0,LoRD
+0,0.0,23.0,23.0,14.0,7.0,1.0,1.0,0,0.0,10.0,10.0,9.0,1.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,1.0,1.0,0,1.0,0.0,0,0,0.0,0.0,0.0,1.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,17.0,0,1.0,0.0,3.0,1.0,1.0,1.0,7.0,4.0,0.0,15.0,0,0,26.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,6.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,9.0,9.0,1.0,0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,6.0,0,0,6.0,5.0,43.0,74.68952,2.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,13.0,13.0,7.0,16.0,2.0,2.0,0,8.0,16.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,Manro
+0,6.0,31.0,31.0,18.0,9.0,0.0,0.0,0,0.0,12.0,12.0,9.0,2.0,0.0,0.0,4.0,0.0,2.0,4.0,0.0,0.0,0.0,6.0,0.0,0.0,0,1.0,0.0,0,0,6.0,0.0,0.0,0.0,1.0,9.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,21.0,0,1.0,0.0,3.0,0.0,0.0,0.0,6.0,6.0,0.0,15.0,0,0,27.0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,31.265379,18.0,0,0,8.0,13.895724,13.895724,8.0,6.0,1.0,1.0,3.0,3.0,0,0,0,8.0,8.0,0,11.5,13.333333,13.333333,8.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,0.0,9.0,9.0,0.0,0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,5.0,0,0,8.0,5.0,29.0,50.372,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,2.0,21.0,21.0,7.0,16.0,0.0,1.0,0,0.0,20.0,0.0,2.0,0.0,0.0,0.0,10.0,10.0,8.0,0.0,0.0,0.0,0.0,1.0,0,1.0,0,2.0,4.0,0,2.0,1.0,1.0,1.0,4.0,2.0,4.0,4.0,0,0,0,2.0,2.0,0,2.0,4.0,2.0,4.0,2.0,2.0,Neroysq
+0,2.0,19.0,19.0,0.0,0.0,4.0,4.0,0,2.0,3.0,3.0,2.0,7.0,4.0,4.0,9.0,6.0,2.0,3.0,1.0,1.0,7.0,5.0,2.0,2.0,0,4.0,7.0,0,0,3.0,3.0,3.0,2.0,8.0,1.0,5.0,5.0,5.0,0.0,4.0,6.0,2.0,3.0,2.0,2.0,0.0,1.0,156.0,0,5.0,0.0,11.0,8.0,8.0,8.0,51.0,3.0,2.0,17.0,0,0,53.0,0,0,15.0,0.0,0.0,3.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,3.0,5.0,5.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,4.0,0,0,10.0,3.0,3.0,3.0,3.0,0.0,2.0,0.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,4.0,9.0,9.0,1.0,0,7.0,9.0,2.1101878,1.6412572,159.0,1.0,0.0,0.0,15.0,6.0,0,0,5.0,9.0,0.0,0.0,50.0,0,6.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,3.0,1.0,12.0,12.0,0.0,22.0,20.0,7.0,0,12.0,18.0,8.0,0.0,1.0,4.0,1.0,10.0,10.0,19.0,2.0,4.0,2.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,Rasmus
+0,2.0,17.0,17.0,0.0,0.0,4.0,4.0,0,2.0,3.0,3.0,2.0,8.0,4.0,4.0,11.0,7.0,2.0,3.0,2.0,2.0,5.0,4.0,2.0,2.0,0,3.0,5.0,0,0,3.0,5.0,5.0,2.0,8.0,0.0,7.0,7.0,7.0,0.0,4.0,8.0,2.0,3.0,2.0,2.0,0.0,3.0,202.0,0,5.0,3.0,10.0,1.0,1.0,1.0,32.0,2.0,2.0,17.0,0,0,49.0,0,0,12.0,13.333333,0.0,3.0,5.0,3.0,3.0,3.0,3.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,3.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,4.0,0,0,8.0,5.0,5.0,5.0,5.0,0.0,2.0,4.0,7.0,2.0,2.0,4.0,2.0,2.0,0.0,0.0,2.0,25.0,28.80008,6.0,11.0,11.0,0.0,0,7.0,9.0,2.1101878,1.6412572,205.0,3.0,18.0,18.0,12.0,8.0,0,0,4.0,9.0,0.0,0.0,27.0,0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,5.0,1.0,10.0,10.0,0.0,21.0,10.0,3.0,0,24.0,18.0,3.0,0.0,3.0,6.0,1.0,10.0,10.0,14.0,2.0,4.0,4.0,13.333333,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,Xellos
+0,2.0,15.0,15.0,0.0,0.0,6.0,6.0,0,6.0,5.0,5.0,2.0,17.0,12.0,12.0,17.0,10.0,0.0,2.0,3.0,3.0,12.0,3.0,4.0,4.0,0,11.0,12.0,0,0,1.0,11.0,11.0,2.0,12.0,0.0,13.0,13.0,13.0,4.0,12.0,14.0,2.0,3.0,2.0,2.0,0.0,1.0,251.0,0,5.0,11.0,16.0,2.0,2.0,2.0,65.0,2.0,6.0,23.0,0,0,73.0,0,0,17.0,10.727273,0.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,1.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,1.0,0,0,12.0,3.0,3.0,3.0,3.0,0.0,1.0,0.0,8.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,3.0,11.0,11.0,1.0,0,7.0,9.0,2.1101878,1.6412572,265.0,1.0,13.0,13.0,22.0,6.0,0,0,6.0,9.0,0.0,0.0,27.0,0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,1.0,0.0,26.0,15.0,5.0,0,30.0,24.0,5.0,0.0,1.0,4.0,0.0,1.0,1.0,21.0,2.0,2.0,2.0,13.333333,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,Yhammad
+0,10.0,25.0,25.0,8.0,4.0,9.0,9.0,0,5.0,9.0,9.0,4.0,12.0,8.0,8.0,15.0,6.0,6.0,7.0,2.0,2.0,10.0,6.0,5.0,5.0,0,3.0,10.0,0,0,8.0,9.0,9.0,4.0,12.0,8.0,11.0,11.0,11.0,2.0,6.0,12.0,2.0,4.0,2.0,4.0,2.0,3.0,377.0,0,10.0,20.0,14.0,3.0,3.0,3.0,58.0,6.0,2.0,23.0,0,0,65.0,0,0,22.0,10.857142,3.0,3.0,7.0,3.0,3.0,3.0,3.0,24.317518,14.0,0,0,6.0,10.421793,10.421793,6.0,8.0,4.0,4.0,1.0,1.0,0,0,0,4.0,4.0,0,15.0,16.0,16.0,6.0,0,0,14.0,9.0,9.0,10.0,9.0,2.0,1.0,14.0,14.0,3.0,3.0,6.0,3.0,4.0,0.0,0.0,4.0,51.0,58.752163,14.0,9.0,9.0,0.0,0,7.0,9.0,2.1101878,1.6412572,382.0,4.0,28.0,28.0,19.0,8.0,0,0,8.0,10.0,0.0,0.0,43.0,0,10.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,10.0,5.0,13.0,13.0,2.0,26.0,27.0,6.0,0,130.0,26.0,7.0,0.0,5.0,6.0,1.0,11.0,11.0,29.0,7.0,9.0,8.0,9.214286,1.0,0,1.0,0,2.0,4.0,0,2.0,1.0,1.0,1.0,4.0,2.0,4.0,4.0,0,0,0,2.0,2.0,0,2.0,4.0,2.0,4.0,2.0,2.0,alyaxey
+0,6.0,23.0,23.0,8.0,4.0,8.0,8.0,0,6.0,8.0,8.0,4.0,9.0,6.0,6.0,11.0,6.0,4.0,5.0,1.0,1.0,8.0,6.0,4.0,4.0,0,2.0,8.0,0,0,9.0,5.0,5.0,4.0,8.0,4.0,7.0,7.0,7.0,2.0,6.0,8.0,2.0,4.0,2.0,4.0,2.0,1.0,237.0,0,7.0,8.0,10.0,1.0,1.0,1.0,39.0,5.0,2.0,23.0,0,0,49.0,0,0,16.0,11.875,2.0,1.0,5.0,1.0,1.0,1.0,1.0,31.265379,18.0,0,0,8.0,13.895724,13.895724,8.0,9.0,5.0,5.0,3.0,3.0,0,0,0,8.0,8.0,0,11.5,13.333333,13.333333,6.0,0,0,10.0,5.0,5.0,5.0,5.0,2.0,1.0,4.0,7.0,2.0,2.0,4.0,2.0,2.0,0.0,0.0,4.0,46.0,52.992146,5.0,11.0,11.0,0.0,0,7.0,9.0,2.1101878,1.6412572,240.0,1.0,19.0,19.0,14.0,6.0,0,0,7.0,9.0,0.0,0.0,27.0,0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,5.0,3.0,11.0,11.0,2.0,23.0,15.0,5.0,0,28.0,26.0,4.0,0.0,1.0,4.0,2.0,10.0,10.0,21.0,4.0,4.0,4.0,14.0,1.0,0,1.0,0,2.0,4.0,0,2.0,1.0,1.0,1.0,4.0,2.0,4.0,4.0,0,0,0,2.0,2.0,0,2.0,4.0,2.0,4.0,2.0,2.0,djurkicn
+0,0.0,16.0,16.0,4.0,2.0,1.0,1.0,0,0.0,4.0,4.0,2.0,6.0,0.0,0.0,6.0,0.0,1.0,2.0,1.0,1.0,4.0,4.0,1.0,1.0,0,2.0,4.0,0,0,3.0,0.0,0.0,2.0,1.0,8.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,3.0,1.0,2.0,0.0,0.0,13.0,0,3.0,0.0,3.0,8.0,8.0,8.0,25.0,5.0,0.0,17.0,0,0,41.0,0,0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,3.0,0,0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,1.0,0,7.0,9.0,2.1101878,1.6412572,21.0,0.0,0.0,0.0,11.0,5.0,0,0,9.0,7.0,0.0,0.0,15.0,0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,0.0,24.0,15.0,2.0,0,28.0,8.0,1.0,0.0,0.0,6.0,1.0,3.0,3.0,18.0,1.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,dongockhanh1997
+0,0.0,17.0,17.0,2.0,1.0,0.0,0.0,0,0.0,3.0,3.0,2.0,3.0,0.0,0.0,4.0,0.0,1.0,2.0,0.0,0.0,2.0,4.0,0.0,0.0,0,3.0,2.0,0,0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,5.0,0,3.0,0.0,3.0,0.0,0.0,0.0,12.0,3.0,0.0,17.0,0,0,30.0,0,0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,5.0,0,0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,9.0,9.0,0.0,0,7.0,9.0,2.1101878,1.6412572,11.0,0.0,0.0,0.0,6.0,5.0,0,0,7.0,7.0,0.0,0.0,7.0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,44.0,44.0,0.0,19.0,7.0,1.0,0,21.0,12.0,1.0,0.0,0.0,4.0,1.0,44.0,44.0,11.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,eha
+0,2.0,17.0,17.0,0.0,0.0,6.0,6.0,0,6.0,4.0,4.0,2.0,8.0,4.0,4.0,9.0,6.0,2.0,3.0,1.0,1.0,8.0,4.0,4.0,4.0,0,3.0,8.0,0,0,0.0,3.0,3.0,4.0,6.0,0.0,5.0,5.0,5.0,0.0,4.0,6.0,2.0,4.0,2.0,2.0,0.0,1.0,181.0,0,5.0,5.0,8.0,1.0,1.0,1.0,35.0,2.0,2.0,23.0,0,0,43.0,0,0,15.0,11.0,0.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,5.0,0,0,10.0,3.0,3.0,3.0,3.0,0.0,2.0,4.0,4.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,45.0,51.84014,5.0,11.0,11.0,1.0,0,7.0,9.0,2.1101878,1.6412572,184.0,1.0,16.0,16.0,14.0,6.0,0,0,4.0,9.0,0.0,0.0,23.0,0,4.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,12.0,12.0,0.0,24.0,14.0,5.0,0,15.0,22.0,5.0,0.0,1.0,4.0,1.0,11.0,11.0,17.0,2.0,2.0,2.0,16.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,grisaf
+0,8.0,23.0,23.0,8.0,4.0,6.0,6.0,0,6.0,7.0,7.0,4.0,8.0,4.0,4.0,10.0,6.0,4.0,5.0,1.0,1.0,8.0,6.0,4.0,4.0,0,2.0,8.0,0,0,7.0,3.0,3.0,5.0,6.0,5.0,5.0,5.0,5.0,2.0,4.0,6.0,2.0,4.0,2.0,4.0,2.0,1.0,173.0,0,5.0,30.0,8.0,3.0,3.0,3.0,42.0,6.0,2.0,25.0,0,0,50.0,0,0,17.0,11.088235,3.0,1.0,3.0,1.0,1.0,1.0,1.0,31.265379,18.0,0,0,8.0,13.895724,13.895724,8.0,7.0,4.0,4.0,3.0,3.0,0,0,0,8.0,8.0,0,11.5,13.333333,13.333333,6.0,0,0,12.0,3.0,3.0,3.0,3.0,2.0,1.0,8.0,4.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,49.0,56.448154,3.0,11.0,11.0,0.0,0,7.0,9.0,2.1101878,1.6412572,176.0,1.0,16.0,16.0,16.0,6.0,0,0,8.0,9.0,0.0,0.0,25.0,0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,12.0,12.0,2.0,24.0,18.0,5.0,0,53.0,26.0,4.0,0.0,1.0,4.0,1.0,10.0,10.0,24.0,2.0,2.0,2.0,11.285714,1.0,0,1.0,0,2.0,4.0,0,2.0,1.0,1.0,1.0,4.0,2.0,4.0,4.0,0,0,0,2.0,2.0,0,2.0,4.0,2.0,4.0,2.0,2.0,ivancastel94
+0,0.0,15.0,15.0,6.0,3.0,2.0,2.0,0,0.0,6.0,6.0,2.0,3.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0,1.0,3.0,2.0,2.0,0,2.0,1.0,0,0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,9.0,0,4.0,0.0,4.0,3.0,3.0,3.0,9.0,3.0,0.0,17.0,0,0,32.0,0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,3.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,6.0,0,0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.0,0.0,0.0,1.0,11.0,11.0,0.0,0,7.0,9.0,2.1101878,1.6412572,16.0,0.0,0.0,0.0,4.0,5.0,0,0,7.0,7.0,19.0,33.002346,12.0,0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,2.0,2.0,3.0,20.0,5.0,3.0,0,12.0,14.0,6.0,1.0,0.0,4.0,1.0,2.0,2.0,9.0,1.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,kicius
+0,0.0,23.0,23.0,10.0,5.0,0.0,0.0,0,0.0,9.0,9.0,2.0,4.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0,4.0,7.0,0.0,0.0,0,3.0,3.0,0,0,3.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,11.0,0,3.0,0.0,6.0,4.0,4.0,4.0,35.0,4.0,0.0,17.0,0,0,45.0,0,0,8.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,7.0,0,0,8.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,9.0,9.0,0.0,0,15.0,17.0,3.9859104,3.5169797,20.0,0.0,0.0,0.0,14.0,5.0,0,0,8.0,7.0,33.0,57.319862,42.0,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,41.0,41.0,5.0,18.0,12.0,5.0,0,18.0,28.0,4.0,1.0,0.0,4.0,0.0,26.0,26.0,15.0,0.0,2.0,0.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,liangsheng
+0,2.0,19.0,19.0,0.0,0.0,6.0,6.0,0,6.0,3.0,3.0,2.0,8.0,4.0,4.0,9.0,6.0,2.0,3.0,1.0,1.0,8.0,5.0,4.0,4.0,0,3.0,8.0,0,0,3.0,3.0,3.0,4.0,6.0,0.0,5.0,5.0,5.0,0.0,4.0,6.0,2.0,4.0,2.0,2.0,0.0,1.0,161.0,0,5.0,9.0,8.0,1.0,1.0,1.0,34.0,2.0,2.0,23.0,0,0,44.0,0,0,15.0,11.307693,0.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,4.0,0,0,10.0,3.0,3.0,3.0,3.0,0.0,2.0,12.0,4.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,40.0,46.080128,6.0,13.0,13.0,0.0,0,7.0,9.0,2.1101878,1.6412572,164.0,1.0,12.0,12.0,14.0,6.0,0,0,4.0,9.0,0.0,0.0,24.0,0,5.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,14.0,14.0,0.0,25.0,15.0,5.0,0,59.0,18.0,9.0,0.0,1.0,4.0,2.0,11.0,11.0,17.0,2.0,2.0,2.0,10.4,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,mRilchi
+0,0.0,15.0,15.0,10.0,5.0,0.0,0.0,0,0.0,9.0,9.0,2.0,3.0,0.0,0.0,5.0,0.0,0.0,2.0,0.0,0.0,1.0,3.0,0.0,0.0,0,2.0,1.0,0,0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,13.0,0,4.0,0.0,3.0,0.0,0.0,0.0,9.0,3.0,0.0,17.0,0,0,31.0,0,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,3.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,6.0,0,0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,1.0,0,7.0,9.0,2.1101878,1.6412572,19.0,0.0,0.0,0.0,4.0,6.0,0,0,7.0,7.0,29.0,50.372,4.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5.0,16.0,4.0,1.0,0,12.0,14.0,0.0,1.0,0.0,4.0,1.0,1.0,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,perhark
+0,2.0,17.0,17.0,0.0,0.0,6.0,6.0,0,6.0,5.0,5.0,2.0,11.0,4.0,4.0,10.0,6.0,2.0,3.0,2.0,2.0,9.0,4.0,4.0,4.0,0,2.0,9.0,0,0,0.0,3.0,3.0,4.0,6.0,5.0,5.0,7.0,5.0,0.0,4.0,6.0,2.0,4.0,2.0,2.0,0.0,1.0,170.0,0,5.0,11.0,10.0,5.0,5.0,5.0,47.0,3.0,2.0,24.0,0,0,53.0,0,0,18.0,10.727273,0.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,1.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,4.0,0,0,14.0,3.0,3.0,3.0,3.0,0.0,2.0,4.0,4.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,41.0,47.23213,12.0,11.0,11.0,0.0,0,7.0,9.0,2.1101878,1.6412572,173.0,1.0,13.0,13.0,18.0,6.0,0,0,5.0,9.0,0.0,0.0,29.0,0,7.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,3.0,1.0,11.0,11.0,0.0,23.0,23.0,5.0,0,41.0,22.0,7.0,0.0,1.0,4.0,2.0,9.0,9.0,22.0,2.0,2.0,2.0,13.333333,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,tchrikch
+0,5.0,24.0,24.0,0.0,0.0,6.0,6.0,0,6.0,5.0,5.0,2.0,16.0,12.0,12.0,17.0,10.0,0.0,1.0,3.0,3.0,12.0,8.0,4.0,4.0,0,11.0,12.0,0,0,9.0,11.0,11.0,3.0,12.0,0.0,13.0,13.0,13.0,4.0,12.0,14.0,2.0,3.0,2.0,2.0,0.0,1.0,236.0,0,4.0,33.0,16.0,2.0,2.0,2.0,61.0,2.0,6.0,24.0,0,0,68.0,0,0,17.0,10.733334,1.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,9.0,4.0,4.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,9.0,0,0,12.0,3.0,3.0,3.0,3.0,0.0,2.0,0.0,8.0,1.0,1.0,2.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,4.0,9.0,9.0,1.0,0,21.0,27.0,6.3305635,4.923772,242.0,1.0,8.0,8.0,22.0,6.0,0,0,4.0,9.0,0.0,0.0,27.0,0,3.0,1.0,1.0,1.0,0.0,0.0,0.0,3.0,3.0,1.0,88.0,88.0,0.0,25.0,17.0,6.0,0,93.0,44.0,8.0,0.0,1.0,4.0,0.0,38.0,38.0,19.0,2.0,2.0,2.0,6.0,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,usr32

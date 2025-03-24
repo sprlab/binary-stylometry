@@ -1,0 +1,5 @@
+00004EAE  6B696369          imul ebp,[ecx+0x63],byte +0x69
+00004EB2  7573              jnz 0x4f27
+00004EB4  2E637070          arpl [cs:eax+0x70],si
+00004EB8  005F5A            add [edi+0x5a],bl
+00004EBB  53                push ebx
