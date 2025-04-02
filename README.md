@@ -1,7 +1,7 @@
 # Binary Stylometry Repository
 
 This repository contains the code and dataset for the paper "Does Coding Style Really Survive Compilation?
-Stylometry of Executable Code Revisited". 
+Stylometry of Executable Code Revisited" in the PETS 2025 Conference. 
 
 ## Folders below:
 
