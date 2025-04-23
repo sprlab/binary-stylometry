@@ -6,7 +6,7 @@ Stylometry of Executable Code Revisited" in the PETS 2025 Conference.
 ## Folders below:
 
 - ```results```: This folder contains the code and instructions to replicate the results.
-- ```pipeline```: This folder contains the pipeline used to process a single-fold dataset from scratch to generate feature files given the binary dataset. (Coming Soon)
+- ```pipeline```: This folder contains the pipeline used to process a single-fold dataset from scratch to generate feature files given the binary dataset.
 - ```scripts```: This folder contains scripts to preprocess the data. 
 - ```data```: This folder contains the different datasets.
 - ```explanability```: This folder contains the cause analysis data presented in the paper.
