@@ -26,4 +26,4 @@ The details regarding the ARFF feature files datasets are given below:
 
 - Java 11: Ensure that Java Development Kit (JDK) version 11 is installed on your system.
 - Install python3 requirements using `pip3 install -r requirements.txt`
-- Download libs listed in `Attribution/jars/reqs.txt`
+- Downwload the java libs listed in the `Attribution/jars/reqs.txt` file.
