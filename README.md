@@ -33,3 +33,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+### Third-Party Software
+Although our scripts depend on several third-party software, this repository does not contain (or distribute) any non-Apache license-compliant third-party software. Thus, the users are expected to obtain the required non-Apache licensed third-party software on their own.
