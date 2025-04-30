@@ -94,13 +94,20 @@ For a high level overview:
 - Find out total number of unique features across authors.
 - Find out total number of common features across authors.
 - Find out their SHAP and Feature Importance values ranges (Note that SHAP values may vary across different runs).
+- Look at the feature text to determine the feature type.
+
+This would help in reproducing Tables 4 and 5 of the paper.
 
 The SHAP values were found to be in the range (0.001 to 0.01).
 The Feature Importance values were found to be in the range (0.5 to 0.8).
 
 For feature level analysis:
 
+Note that this step requires you to run the pipeline to get the intermediate data.
+
 #### ndisasm‑based features
+
+This following analysis would help in reproducing in Table 6 the paper.
 
 - Search the feature text within the ndisasm output (.dis files in the intermediate data) to locate the exact instructions.
 - Extract the corresponding machine‑code bytes and translated machine code to ASCII representation.
