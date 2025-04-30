@@ -34,6 +34,8 @@ The following are the requirements:
  - Java JDK 11
  - Python packages listed in requirments.txt
 
+We also recommend running the pipeline inside a Docker container for consistency and ease of setup.
+
 ### Estimated Time and Storage Consumption
 The accuracy experiments will take upto 5-10 hours to finish.
 The explanability experiments will finish instantly.
