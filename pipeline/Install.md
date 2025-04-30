@@ -114,6 +114,11 @@ cd ..
 pip3 install -r requirements.txt
 ```
 
+
+## Sample Run
+
+Once everything is setup, please go to the `sample-run` folder to and run the pipeline on the given sample dataset to verify pipeline is running as expected. More instructions are contained in the folder
+
 **If you encounter any issues:**  
 - Ensure all dependencies are installed correctly.
 - If you still encounter an error, we have a docker file with all the tools installed and configured with the pipeline that we can provide you on demand.
